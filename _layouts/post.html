@@ -10,11 +10,11 @@ layout: default
         <a href="{{ post.url }}#disqus_thread"></a>
     {% endif %}
     {% if page.tags.size > 0 %}
-        Tags: 
+        Tags:
       {% for tag in page.tags %}
-        <a href="/tag/{{ tag }}">{{ tag }} </a> 
+        <a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }} </a> 
       {% endfor %}
-    {% endif %} 
+    {% endif %}
    </small>
 
   <div class="entry">
