@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Adding Tags to Jekyll Now – Ted Xiao – EECS Student at UC Berkeley</title>
+
+        <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="Introduction
+
+I thought I&#39;d start off by writing about something fresh in my mind: the technical aspects of this blog! I&#39;ve decided to use a static page blog using Jekyll and hosted by Github. In addition, I&#39;m using a out-of-the-box solution called jekyll-now. I&#39;ve chosen Jekyll for a variety reasons, but the main ones are:
+  - Jekyll is very customizable. Jekyll is simple to use, which makes it easy for me to build with it.
+  - Jekyll is fast. The generated static sites should be served much quicker than dyanmic sites like Wordpress.
+  - I have lots of ownership. I see the code for the entire solution, so I know or can learn how things happen. 
+  - Easy Github integration. My personal website is hosted through Github Pages, so adding a Jekyll blog to it is super simple if I also host with Github. 
+  - Last but not least, I feel like a &#39;hacker&#39;. Rich text editors? Psh, I&#39;ll be learning Markdown. 
+
+Thoughts on the Current Layout
+
+So after following Barry Clark&#39;s great jekyll-now tutorial, I really liked what I saw. The layout is minimal, elegant, and beautiful. There is a main feed that shows you a list of blog posts with a sizeable snippet to allow readers to the first portions of the posts. 
+" />
+    <meta property="og:description" content="Introduction
+
+I thought I&#39;d start off by writing about something fresh in my mind: the technical aspects of this blog! I&#39;ve decided to use a static page blog using Jekyll and hosted by Github. In addition, I&#39;m using a out-of-the-box solution called jekyll-now. I&#39;ve chosen Jekyll for a variety reasons, but the main ones are:
+  - Jekyll is very customizable. Jekyll is simple to use, which makes it easy for me to build with it.
+  - Jekyll is fast. The generated static sites should be served much quicker than dyanmic sites like Wordpress.
+  - I have lots of ownership. I see the code for the entire solution, so I know or can learn how things happen. 
+  - Easy Github integration. My personal website is hosted through Github Pages, so adding a Jekyll blog to it is super simple if I also host with Github. 
+  - Last but not least, I feel like a &#39;hacker&#39;. Rich text editors? Psh, I&#39;ll be learning Markdown. 
+
+Thoughts on the Current Layout
+
+So after following Barry Clark&#39;s great jekyll-now tutorial, I really liked what I saw. The layout is minimal, elegant, and beautiful. There is a main feed that shows you a list of blog posts with a sizeable snippet to allow readers to the first portions of the posts. 
+" />
+    
+    <meta name="author" content="Ted Xiao" />
+
+    
+    <meta property="og:title" content="Adding Tags to Jekyll Now" />
+    <meta property="twitter:title" content="Adding Tags to Jekyll Now" />
+    
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/blog/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Ted Xiao - EECS Student at UC Berkeley" href="/blog/feed.xml" />
+
+    <link rel="icon" type="image/x-icon" href="http://jekyllrb.com/favicon.ico">
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="/blog/" class="site-avatar"><img src="https://avatars1.githubusercontent.com/u/5369595?v=3&s=460" /></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="/blog/">Ted Xiao</a></h1>
+            <p class="site-description">EECS Student at UC Berkeley</p>
+          </div>
+
+          <nav>
+            <a href="/blog/">Blog</a>
+            <a href="/blog/about">About</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      <article class="post">
+  <h1>Adding Tags to Jekyll Now</h1>
+
+  <small>
+    
+    
+        Tags:
+      
+        <a href="/blog/tag/code">code </a> 
+      
+        <a href="/blog/tag/github">github </a> 
+      
+        <a href="/blog/tag/jekyll">jekyll </a> 
+      
+        <a href="/blog/tag/markdown">markdown </a> 
+      
+    
+   </small>
+
+  <div class="entry">
+    <h1>Introduction</h1>
+
+<p>I thought I&#39;d start off by writing about something fresh in my mind: the technical aspects of this blog! I&#39;ve decided to use a static page blog using <a href="https://jekyllrb.com/">Jekyll</a> and hosted by Github. In addition, I&#39;m using a out-of-the-box solution called <a href="https://github.com/barryclark/jekyll-now">jekyll-now</a>. I&#39;ve chosen Jekyll for a variety reasons, but the main ones are:
+  - Jekyll is <strong>very customizable</strong>. Jekyll is simple to use, which makes it easy for me to build with it.
+  - Jekyll is <strong>fast</strong>. The generated static sites should be served much quicker than dyanmic sites like Wordpress.
+  - I have lots of <strong>ownership</strong>. I see the code for the entire solution, so I know or can learn how things happen. 
+  - <strong>Easy Github integration</strong>. My personal website is hosted through Github Pages, so adding a Jekyll blog to it is super simple if I also host with Github. 
+  - Last but not least, I <strong>feel like a &#39;hacker&#39;</strong>. Rich text editors? Psh, I&#39;ll be learning Markdown. </p>
+
+<h1>Thoughts on the Current Layout</h1>
+
+<p>So after following Barry Clark&#39;s great jekyll-now <a href="http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/">tutorial</a>, I really liked what I saw. The layout is minimal, elegant, and beautiful. There is a main feed that shows you a list of blog posts with a sizeable snippet to allow readers to the first portions of the posts. </p>
+
+<p>One feature that I didn&#39;t see was tagging. I decided to follow Theby&#39;s jekyll-now <a href="https://github.com/barryclark/jekyll-now/pull/205">branch</a>, which adds a tagging feature in. It takes tag indices from posts and generates corresponding pages (a page for each tag, a list of tags on each poss) for those tags. For example, for this post I added <code>tags: [code, github, jekyll, jekyll-now, tagging]</code> to generate these tags.</p>
+
+<p>Theby&#39;s code worked great for sites without a <code>base_url</code> (sites without a <code>base_url</code> are assumed to just be hosted at username.github.io.), but for my blog, I&#39;m hosting it at <code>http://txizzle.github.io/blog</code> because my blog is a separate project repository being pushed through Github&#39;s <a href="https://help.github.com/articles/creating-project-pages-manually/">project pages</a>. I changed some of the tag-generation links in Thelby&#39;s branch:</p>
+
+<p>I basically replaced all <code>&lt;a href=&quot;/tag/&quot;&gt; &lt;/a&gt;</code> into <code>&lt;a href=&quot;/blog/tag/&quot;&gt;</code>. Not too much of a change! I&#39;m just changing some <code>href</code> links, a fairly semantic change. This change allowed my blog to work locally; clicking tag links works for every location tag links appear (on posts, on the main page, and on the tag feeds).</p>
+
+<p>However, the tags have not worked when I&#39;ve pushed my blog online! If you try clicking the tags above this post, you&#39;ll get a 404 Error. Why is this happening? I&#39;m not certain. It may be that the tag generation code is not working, so the <code>tag_index</code> pages are just never generated. I don&#39;t know if this is the case, because the  <code>&lt;a href&gt;</code> html links still redirect to the URL that I expect. There&#39;s just nothing there.</p>
+
+<p>Anyways, I&#39;ve <a href="https://github.com/barryclark/jekyll-now/pull/205">asked</a> Theby what&#39;s up, and will update with anything I find. Keep posted &#39;til next time! This blog will look great(er) in no time.</p>
+
+  </div>
+
+  <div class="date">
+    Written on November 14, 2015
+  </div>
+
+  
+</article>
+
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          
+<a href="mailto:t.xiao@berkeley.edu"><i class="svg-icon email"></i></a>
+
+
+<a href="https://github.com/txizzle"><i class="svg-icon github"></i></a>
+
+<a href="https://www.linkedin.com/in/tedxiao"><i class="svg-icon linkedin"></i></a>
+
+
+<a href="https://www.twitter.com/xiao_ted"><i class="svg-icon twitter"></i></a>
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+    
+  </body>
+</html>
