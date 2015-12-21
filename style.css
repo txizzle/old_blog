@@ -275,8 +275,9 @@ nav a {
 }
 
 .entry {
-  margin: 10px;
-  border: 2px dotted black;
+  margin: 2px;
+  padding: 5px;
+  border: 2px solid black;
 }
 
 .posts > .post {
