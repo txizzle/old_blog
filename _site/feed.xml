@@ -7,23 +7,6 @@
     <atom:link href="http://tedxiao.me/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>The 2015 Internship Journey</title>
-        <description>&lt;h2&gt;The Hunt&lt;/h2&gt;
-
-&lt;p&gt;Fall Semester draws to a close, and the end of the Finals Season also marks the end of Recruiting Season for many. This year, like many third-year students, I&amp;#39;ve looked exhaustively for &amp;quot;the one&amp;quot; internship that&amp;#39;s supposed to crown your junior year or even your college experience in general. 15 interviews from &lt;/p&gt;
-
-&lt;h2&gt;The Numbers&lt;/h2&gt;
-
-&lt;h2&gt;Why Software Engineering?&lt;/h2&gt;
-
-&lt;p&gt;I&amp;#39;ve heard numerous EECS students at Cal note that UC Berkeley EECS culture is very heavily biased towards feeding into Silicon Valley Software Engineering (compared to Stanford or MIT). I&amp;#39;m not sure of the atmosphere at other universities, but I&amp;#39;ve definitely felt the pressure from what feels like a vast majority of EECS students eagerly following the &amp;quot;script&amp;quot;: mid-size or small companies Freshman and Sophomore year, a large big-name company Junior year, with the sole goal of working as a Software Engineer immediately after graudation. Many students take almost identical courses without venturing far off the beaten path. We&amp;#39;ll all find particular areas we&amp;#39;re interested in, but Software Engineering is always a very safe default. But that&amp;#39;s not necessarily a bad thing - the boatloads of cash, great perks, and a developer-centric culture are amenities unheard of in many other career paths. I&amp;#39;m not not enthused that most students choose this path, and I wish that &lt;/p&gt;
-</description>
-        <pubDate>Sat, 19 Dec 2015 00:00:00 -0800</pubDate>
-        <link>http://tedxiao.me/Internship-Overview/</link>
-        <guid isPermaLink="true">http://tedxiao.me/Internship-Overview/</guid>
-      </item>
-    
-      <item>
         <title>Adding Tags to Jekyll Now</title>
         <description>&lt;h2&gt;Jekyll Now&lt;/h2&gt;
 

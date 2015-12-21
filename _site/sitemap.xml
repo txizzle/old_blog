@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://tedxiao.me/blog/Internship-Overview/</loc>
-    <lastmod>2015-12-19T00:00:00-08:00</lastmod>
-  </url>
-  <url>
     <loc>http://tedxiao.me/blog/Blog-Tags/</loc>
     <lastmod>2015-11-14T00:00:00-08:00</lastmod>
   </url>
@@ -32,17 +28,5 @@
   </url>
   <url>
     <loc>http://tedxiao.me/blog/tag/markdown/</loc>
-  </url>
-  <url>
-    <loc>http://tedxiao.me/blog/tag/internship/</loc>
-  </url>
-  <url>
-    <loc>http://tedxiao.me/blog/tag/amazon/</loc>
-  </url>
-  <url>
-    <loc>http://tedxiao.me/blog/tag/SE/</loc>
-  </url>
-  <url>
-    <loc>http://tedxiao.me/blog/tag/PM/</loc>
   </url>
 </urlset>
