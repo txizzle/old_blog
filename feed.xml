@@ -12,17 +12,40 @@
 
 &lt;p&gt;If you asked 10 people what the word &amp;quot;startup&amp;quot; means, you&amp;#39;d probably get just as many different definitions. To many college students, it could mean &amp;quot;an extensive tech project that I&amp;#39;ve spent very significant time on and can see being something more&amp;quot;. And isn&amp;#39;t that really the same thing as a pre-funding startup? &lt;/p&gt;
 
-&lt;p&gt;So when people ask me what I&amp;#39;ve been up to, instead of responding with a confusing mouthful, I just reply &amp;quot;working on my startup&amp;quot;. I guess I&amp;#39;m a cool kid now!&lt;/p&gt;
+&lt;p&gt;So when people ask me what I&amp;#39;ve been up to, instead of responding with a confusing mouthful about a class project idea that evolved, I just reply with &amp;quot;working on my startup&amp;quot;. I guess I&amp;#39;m a cool kid now!&lt;/p&gt;
 
 &lt;h1&gt;Meet Adviz!&lt;/h1&gt;
 
-&lt;p&gt;These last few months, I&amp;#39;ve spent a significant amount of time working on a side project called &lt;strong&gt;adViz&lt;/strong&gt;. &lt;/p&gt;
+&lt;p&gt;These last few months, I&amp;#39;ve spent a significant amount of time working on a side project called &lt;strong&gt;Adviz&lt;/strong&gt;. &lt;/p&gt;
+
+&lt;p&gt;Currently, apps such as Google Maps or Waze can direct us the fastest route or shortest route, but not the safest route. Recently, a woman in Brazil using Waze was actually directed to the wrong address and &lt;a href=&quot;http://edition.cnn.com/2015/10/05/americas/brazil-wrong-directions-death/&quot;&gt;killed&lt;/a&gt;. In a nutshell, Adviz seeks to add &lt;em&gt;an intelligent security layer to your daily navigation&lt;/em&gt;. &lt;/p&gt;
+
+&lt;p&gt;This idea stemmed out of a course I took last semester: IEOR185, Building Smart Cities Leveraging Open Innovation. As part of the course, I developed a technical solution (Adviz) with a feasible business model. This solution centered around making Visakhapatnam (one of the &lt;a href=&quot;http://timesofindia.indiatimes.com/india/3-US-India-teams-to-draft-plan-for-3-smart-cities/articleshow/46036760.cms&quot;&gt;three smart cities&lt;/a&gt; under development by joint India-US teams) smart.&lt;/p&gt;
 
 &lt;p&gt;It&amp;#39;s been a crazy but rewarding journey that&amp;#39;s taken me through countless pivots and pitches, all the way from Berkeley, CA to Visakhapatnam, India. In the next few blog entries, I&amp;#39;ll write about some fun experiences and takeaways I&amp;#39;ve learned on this journey. &lt;/p&gt;
 
-&lt;p&gt;As part an entrepeneurship/project course &lt;/p&gt;
+&lt;h1&gt;My Role&lt;/h1&gt;
+
+&lt;p&gt;As this was my first interdisciplinary project-based class, I wasn&amp;#39;t sure how our team structure would fall into place. From early on, however, it became clear that our team was composed of a many different experience levels and interests. &lt;/p&gt;
+
+&lt;p&gt;Over the course of a few weeks, I gradually grew into the role of a Product Manager / Lead Engineer, and was able to leverage many of my previous experience in consulting and software development. From early on, it was clear that our team was composed of a many different experience levels, interests, and motivation; this has definitely been a huge challenge, but I believe I&amp;#39;ve grown all the more for it. It&amp;#39;s been a very enlightening experience being in a position of leadership while having no direct authority. &lt;/p&gt;
+
+&lt;h1&gt;What I&amp;#39;ll Write About&lt;/h1&gt;
+
+&lt;p&gt;So much stuff has happened on this hectic journey that it&amp;#39;s hard for me to cram all of it into a single post. I&amp;#39;m going to split up my reflections into four parts:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Part 1: Overview [This Entry]&lt;/li&gt;
+&lt;li&gt;Part 2: India: Nation in Flux&lt;/li&gt;
+&lt;li&gt;Part 3: adViz: The Tech&lt;/li&gt;
+&lt;li&gt;Part 4: adViz: Everything Else&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;See you next installment!&lt;/h1&gt;
+
+&lt;p&gt;I&amp;#39;m currently in Hyderabad, India, waiting for my flight to Hong Kong, where I&amp;#39;ll be spending 3 days. Look for an upcoming reflection on Hong Kong, which I&amp;#39;m confident will be as different from India as India was from California. Until next time!&lt;/p&gt;
 </description>
-        <pubDate>Sun, 10 Jan 2016 00:00:00 +0530</pubDate>
+        <pubDate>Thu, 14 Jan 2016 00:00:00 +0800</pubDate>
         <link>http://tedxiao.me/Adviz-Part-1/</link>
         <guid isPermaLink="true">http://tedxiao.me/Adviz-Part-1/</guid>
       </item>
@@ -126,7 +149,7 @@ In 3 different interviews, I was asked questions I had seen before. Instead of p
 
 &lt;p&gt;It&amp;#39;s been an exhausting, exciting job-hunt, but I&amp;#39;m glad to have learned so much about the process, the companies, and myself. I&amp;#39;m excited to learn, create, and grow this summer at &lt;a href=&quot;http://www.amazon.com/&quot;&gt;Earth&amp;#39;s most customer-centric company&lt;/a&gt;. &lt;/p&gt;
 </description>
-        <pubDate>Sat, 19 Dec 2015 00:00:00 +0530</pubDate>
+        <pubDate>Sat, 19 Dec 2015 00:00:00 +0800</pubDate>
         <link>http://tedxiao.me/Internship-Overview/</link>
         <guid isPermaLink="true">http://tedxiao.me/Internship-Overview/</guid>
       </item>
@@ -163,7 +186,7 @@ In 3 different interviews, I was asked questions I had seen before. Instead of p
 
 &lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;: It turns out the issue is that Github does not run Ruby plugins (how I&amp;#39;m generating the tags) when you push to Github Pages! Charlie Park had a great &lt;a href=&quot;http://charliepark.org/jekyll-with-plugins/&quot;&gt;article&lt;/a&gt; on how to work around this. Essentially, I generate the site locally, and push the generated files directly onto Github (as opposed to having Github both generate and serve the files). Cool! Tags work now. I&amp;#39;ll make them more aesthetically pleasing when I customize this blog more.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 14 Nov 2015 00:00:00 +0530</pubDate>
+        <pubDate>Sat, 14 Nov 2015 00:00:00 +0800</pubDate>
         <link>http://tedxiao.me/Blog-Tags/</link>
         <guid isPermaLink="true">http://tedxiao.me/Blog-Tags/</guid>
       </item>
@@ -184,7 +207,7 @@ this works. I&amp;#39;m still learning Markdown and how to masterfully customize
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;I&amp;#39;m looking forward to sharing new things I learn!&lt;/p&gt;
 </description>
-        <pubDate>Fri, 13 Nov 2015 00:00:00 +0530</pubDate>
+        <pubDate>Fri, 13 Nov 2015 00:00:00 +0800</pubDate>
         <link>http://tedxiao.me/Hello-World/</link>
         <guid isPermaLink="true">http://tedxiao.me/Hello-World/</guid>
       </item>
