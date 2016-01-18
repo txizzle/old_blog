@@ -45,7 +45,7 @@
 
 &lt;p&gt;I&amp;#39;m currently in Hyderabad, India, waiting for my flight to Hong Kong, where I&amp;#39;ll be spending 3 days. Look for an upcoming reflection on Hong Kong, which I&amp;#39;m confident will be as different from India as India was from California. Until next time!&lt;/p&gt;
 </description>
-        <pubDate>Thu, 14 Jan 2016 00:00:00 +0800</pubDate>
+        <pubDate>Thu, 14 Jan 2016 00:00:00 -0800</pubDate>
         <link>http://tedxiao.me/Adviz-Part-1/</link>
         <guid isPermaLink="true">http://tedxiao.me/Adviz-Part-1/</guid>
       </item>
@@ -149,7 +149,7 @@ In 3 different interviews, I was asked questions I had seen before. Instead of p
 
 &lt;p&gt;It&amp;#39;s been an exhausting, exciting job-hunt, but I&amp;#39;m glad to have learned so much about the process, the companies, and myself. I&amp;#39;m excited to learn, create, and grow this summer at &lt;a href=&quot;http://www.amazon.com/&quot;&gt;Earth&amp;#39;s most customer-centric company&lt;/a&gt;. &lt;/p&gt;
 </description>
-        <pubDate>Sat, 19 Dec 2015 00:00:00 +0800</pubDate>
+        <pubDate>Sat, 19 Dec 2015 00:00:00 -0800</pubDate>
         <link>http://tedxiao.me/Internship-Overview/</link>
         <guid isPermaLink="true">http://tedxiao.me/Internship-Overview/</guid>
       </item>
@@ -186,7 +186,7 @@ In 3 different interviews, I was asked questions I had seen before. Instead of p
 
 &lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;: It turns out the issue is that Github does not run Ruby plugins (how I&amp;#39;m generating the tags) when you push to Github Pages! Charlie Park had a great &lt;a href=&quot;http://charliepark.org/jekyll-with-plugins/&quot;&gt;article&lt;/a&gt; on how to work around this. Essentially, I generate the site locally, and push the generated files directly onto Github (as opposed to having Github both generate and serve the files). Cool! Tags work now. I&amp;#39;ll make them more aesthetically pleasing when I customize this blog more.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 14 Nov 2015 00:00:00 +0800</pubDate>
+        <pubDate>Sat, 14 Nov 2015 00:00:00 -0800</pubDate>
         <link>http://tedxiao.me/Blog-Tags/</link>
         <guid isPermaLink="true">http://tedxiao.me/Blog-Tags/</guid>
       </item>
@@ -207,7 +207,7 @@ this works. I&amp;#39;m still learning Markdown and how to masterfully customize
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;I&amp;#39;m looking forward to sharing new things I learn!&lt;/p&gt;
 </description>
-        <pubDate>Fri, 13 Nov 2015 00:00:00 +0800</pubDate>
+        <pubDate>Fri, 13 Nov 2015 00:00:00 -0800</pubDate>
         <link>http://tedxiao.me/Hello-World/</link>
         <guid isPermaLink="true">http://tedxiao.me/Hello-World/</guid>
       </item>
