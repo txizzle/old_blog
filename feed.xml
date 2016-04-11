@@ -181,7 +181,7 @@ In 3 different interviews, I was asked questions I had seen before. Instead of p
 
 &lt;p&gt;Theby&amp;#39;s code worked great for sites without a &lt;code&gt;base_url&lt;/code&gt; (sites without a &lt;code&gt;base_url&lt;/code&gt; are assumed to just be hosted at username.github.io.), but for my blog, I&amp;#39;m hosting it at &lt;code&gt;http://txizzle.github.io/blog&lt;/code&gt; because my blog is a separate project repository being pushed through Github&amp;#39;s &lt;a href=&quot;https://help.github.com/articles/creating-project-pages-manually/&quot;&gt;project pages&lt;/a&gt;. I changed some of the tag-generation links in Thelby&amp;#39;s branch:&lt;/p&gt;
 
-&lt;p&gt;I basically replaced all &lt;code&gt;&amp;lt;a href=&amp;quot;/tag/&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;&lt;/code&gt; into &lt;code&gt;&amp;lt;a href=&amp;quot;/blog/tag/&amp;quot;&amp;gt;&lt;/code&gt;. Not too much of a change! I&amp;#39;m just changing some &lt;code&gt;href&lt;/code&gt; links, a fairly semantic change. This change allowed my blog to work locally; clicking tag links works for every location tag links appear (on posts, on the main page, and on the tag feeds).&lt;/p&gt;
+&lt;p&gt;I basically replaced all &lt;code&gt;&amp;lt;a href=&amp;quot;/tag/&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;&lt;/code&gt; into &lt;code&gt;&amp;lt;a href=&amp;quot;/old_blog/tag/&amp;quot;&amp;gt;&lt;/code&gt;. Not too much of a change! I&amp;#39;m just changing some &lt;code&gt;href&lt;/code&gt; links, a fairly semantic change. This change allowed my blog to work locally; clicking tag links works for every location tag links appear (on posts, on the main page, and on the tag feeds).&lt;/p&gt;
 
 &lt;p&gt;&lt;del&gt;However, the tags have not worked when I&amp;#39;ve pushed my blog online! If you try clicking the tags above this post, you&amp;#39;ll get a 404 Error. Why is this happening? I&amp;#39;m not certain. It may be that the tag generation code is not working, so the &lt;code&gt;tag_index&lt;/code&gt; pages are just never generated. I don&amp;#39;t know if this is the case, because the  &lt;code&gt;&amp;lt;a href&amp;gt;&lt;/code&gt; html links still redirect to the URL that I expect. There&amp;#39;s just nothing there. Anyways, I&amp;#39;ve &lt;a href=&quot;https://github.com/barryclark/jekyll-now/pull/205&quot;&gt;asked&lt;/a&gt; Theby what&amp;#39;s up, and will update with anything I find. Keep posted &amp;#39;til next time! This blog will look great(er) in no time.&lt;/del&gt;&lt;/p&gt;
 
@@ -204,7 +204,7 @@ this works. I&amp;#39;m still learning Markdown and how to masterfully customize
  tidbits that I think will be interesting or useful.&lt;/p&gt;
 
 &lt;p&gt;So without further ado, here it is:&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;print(&amp;quot;Hello World!&amp;quot;)
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-&quot; data-lang=&quot;&quot;&gt;print(&quot;Hello World!&quot;)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;I&amp;#39;m looking forward to sharing new things I learn!&lt;/p&gt;
 </description>

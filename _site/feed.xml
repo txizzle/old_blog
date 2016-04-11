@@ -7,6 +7,155 @@
     <atom:link href="http://tedxiao.me/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>My First Startup Journey, Part 1</title>
+        <description>&lt;h1&gt;Wait Ted, what? &lt;em&gt;Your&lt;/em&gt; startup?&lt;/h1&gt;
+
+&lt;p&gt;If you asked 10 people what the word &amp;quot;startup&amp;quot; means, you&amp;#39;d probably get just as many different definitions. To many college students, it could mean &amp;quot;an extensive tech project that I&amp;#39;ve spent very significant time on and can see being something more&amp;quot;. And isn&amp;#39;t that really the same thing as a pre-funding startup? &lt;/p&gt;
+
+&lt;p&gt;So when people ask me what I&amp;#39;ve been up to, instead of responding with a confusing mouthful about a class project idea that evolved, I just reply with &amp;quot;working on my startup&amp;quot;. I guess I&amp;#39;m a cool kid now!&lt;/p&gt;
+
+&lt;h1&gt;Meet Adviz!&lt;/h1&gt;
+
+&lt;p&gt;These last few months, I&amp;#39;ve spent a significant amount of time working on a side project called &lt;strong&gt;Adviz&lt;/strong&gt;. &lt;/p&gt;
+
+&lt;p&gt;Currently, apps such as Google Maps or Waze can direct us the fastest route or shortest route, but not the safest route. Recently, a woman in Brazil using Waze was actually directed to the wrong address and &lt;a href=&quot;http://edition.cnn.com/2015/10/05/americas/brazil-wrong-directions-death/&quot;&gt;killed&lt;/a&gt;. In a nutshell, Adviz seeks to add &lt;em&gt;an intelligent security layer to your daily navigation&lt;/em&gt;. &lt;/p&gt;
+
+&lt;p&gt;This idea stemmed out of a course I took last semester: IEOR185, Building Smart Cities Leveraging Open Innovation. As part of the course, I developed a technical solution (Adviz) with a feasible business model. This solution centered around making Visakhapatnam (one of the &lt;a href=&quot;http://timesofindia.indiatimes.com/india/3-US-India-teams-to-draft-plan-for-3-smart-cities/articleshow/46036760.cms&quot;&gt;three smart cities&lt;/a&gt; under development by joint India-US teams) smart.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s been a crazy but rewarding journey that&amp;#39;s taken me through countless pivots and pitches, all the way from Berkeley, CA to Visakhapatnam, India. In the next few blog entries, I&amp;#39;ll write about some fun experiences and takeaways I&amp;#39;ve learned on this journey. &lt;/p&gt;
+
+&lt;h1&gt;My Role&lt;/h1&gt;
+
+&lt;p&gt;As this was my first interdisciplinary project-based class, I wasn&amp;#39;t sure how our team structure would fall into place. From early on, however, it became clear that our team was composed of a many different experience levels and interests. &lt;/p&gt;
+
+&lt;p&gt;Over the course of a few weeks, I gradually grew into the role of a Product Manager / Lead Engineer, and was able to leverage many of my previous experience in consulting and software development. From early on, it was clear that our team was composed of a many different experience levels, interests, and motivation; this has definitely been a huge challenge, but I believe I&amp;#39;ve grown all the more for it. It&amp;#39;s been a very enlightening experience being in a position of leadership while having no direct authority. &lt;/p&gt;
+
+&lt;h1&gt;What I&amp;#39;ll Write About&lt;/h1&gt;
+
+&lt;p&gt;So much stuff has happened on this hectic journey that it&amp;#39;s hard for me to cram all of it into a single post. I&amp;#39;m going to split up my reflections into four parts:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Part 1: Overview [This Entry]&lt;/li&gt;
+&lt;li&gt;Part 2: India: Nation in Flux&lt;/li&gt;
+&lt;li&gt;Part 3: adViz: The Tech&lt;/li&gt;
+&lt;li&gt;Part 4: adViz: Everything Else&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;See you next installment!&lt;/h1&gt;
+
+&lt;p&gt;I&amp;#39;m currently in Hyderabad, India, waiting for my flight to Hong Kong, where I&amp;#39;ll be spending 3 days. Look for an upcoming reflection on Hong Kong, which I&amp;#39;m confident will be as different from India as India was from California. Until next time!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Jan 2016 00:00:00 -0800</pubDate>
+        <link>http://tedxiao.me/Adviz-Part-1/</link>
+        <guid isPermaLink="true">http://tedxiao.me/Adviz-Part-1/</guid>
+      </item>
+    
+      <item>
+        <title>The 2015 Internship Journey</title>
+        <description>&lt;h2&gt;The Hunt&lt;/h2&gt;
+
+&lt;p&gt;This year, like many third-year students, I&amp;#39;ve looked exhaustively for &amp;quot;the one&amp;quot; internship that&amp;#39;s supposed to crown your junior year or even your college experience in general. It&amp;#39;s been an arduous grind, but 21 interviews later, I&amp;#39;ve signed with Amazon to spend my 2016 Summer as a Software Development Engineer Intern. I&amp;#39;ve learned so much in this process, and I think some of my takeaways will be useful for others. &lt;/p&gt;
+
+&lt;h2&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Over the course of 83 days, I participated in 21 interviews. &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Product Management Internships:
+
+&lt;ul&gt;
+&lt;li&gt;Workday*: 3 phone screens. &lt;strong&gt;Received offer.&lt;/strong&gt; &lt;/li&gt;
+&lt;li&gt;Google: 1 phone screen, 2 onsite.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Software Engineering Internships:
+
+&lt;ul&gt;
+&lt;li&gt;PDT Partners: 3 on campus, 1 phone screen. &lt;/li&gt;
+&lt;li&gt;Ebay: 1 coding screen.&lt;/li&gt;
+&lt;li&gt;Google: 3 phone screens. &lt;strong&gt;Host matching&lt;/strong&gt;. Declined host matching interview.&lt;/li&gt;
+&lt;li&gt;Bloomberg: 1 phone screen.&lt;/li&gt;
+&lt;li&gt;Tableau*: 3 phone screens. &lt;strong&gt;Received offer&lt;/strong&gt;. &lt;/li&gt;
+&lt;li&gt;Salesforce: 1 phone screen. Declined onsite.&lt;/li&gt;
+&lt;li&gt;Amazon*: 2 on campus. &lt;strong&gt;Received offer&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I was rejected after the resume screen for 5 companies.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dropbox*&lt;/li&gt;
+&lt;li&gt;Uber&lt;/li&gt;
+&lt;li&gt;Lyft&lt;/li&gt;
+&lt;li&gt;Palantir&lt;/li&gt;
+&lt;li&gt;Two Sigma&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;*I had referrals for these companies.&lt;/p&gt;
+
+&lt;h2&gt;The Trends&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Referrals really work&lt;/em&gt;.&lt;br&gt;
+For the 4 companies I had referalls for, I received 3 offers.  Coincidence? I think not! Dropbox was definitely an outlier, but more on that shortly.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Honesty helps you&lt;/em&gt;.&lt;br&gt;
+In 3 different interviews, I was asked questions I had seen before. Instead of pretending to initially struggle and then miraculously solve the question, I opted to just say that I had seen the question before and then offer a brief analysis of the correct solution. I found that strangely enough, the reception to my candor was not just friendly, but actually &lt;em&gt;bonding&lt;/em&gt;. I know that&amp;#39;s a strange word to use, but I can&amp;#39;t think of a better word to describe the exchange: the interviewers shrugs, commends you for your honesty, and maybe jokes about the difficulty in selecting good, unique interview questions. Talk about a confidence boost!&lt;/p&gt;
+
+&lt;h2&gt;The Takeaways&lt;/h2&gt;
+
+&lt;p&gt;In most of my interviews, I immediately asked for feedback in the form of a fairly leading question: &amp;quot;Is there anything that I&amp;#39;ve said today that&amp;#39;s given you cause for concern or that I can clarify?&amp;quot;  &lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m not convinced that this is a good strategy to use, as I&amp;#39;ve had mixed results. Some responses have been generic and actually noticebly negatively altered the closing tone of the conversation, but some responses have been useful. I&amp;#39;ll paraphrase some of the good stuff and add my own insight. In addition, I was able to speak with a Dropbox engineer after my rejection from the resume screen; some of his feedback may be of interest to you as well.&lt;/p&gt;
+
+&lt;p&gt;For PM:  &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Separate opinion and fact. Be very clear on what you are hypothesizing or pitching, because bullshit without facts to back it up is just... bullshit. &lt;/li&gt;
+&lt;li&gt;Balance your tech self and analytical self with the user. Don&amp;#39;t tunnel vision into market sizing and fancy sounding trends! You can &lt;em&gt;never&lt;/em&gt; focus too hard on the end user.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For SE:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Resume-wise, many top tier companies are looking for:
+
+&lt;ul&gt;
+&lt;li&gt;A &amp;quot;strong internship&amp;quot; at another top tier company (Facebook, Google, etc.)&lt;/li&gt;
+&lt;li&gt;A significant project, which means many many Github stars or thousands of users&lt;/li&gt;
+&lt;li&gt;Stellar performance in the hardest CS classes your university offers&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Figure out what type interviewing-style your interview likes. If they want to lead and tell you exactly which steps you should do (Make a class and explain it to me. Now make a signature... etc.), let them lead. If they let you do your own thing, be proactive. &lt;/li&gt;
+&lt;li&gt;If you find yourself rambling or your interviewer&amp;#39;s tone changes, regroup. Fail fast and cut your losses! When you spend 10 minutes of straight talking on a simple question and then your interviewer chastises you and provides a very simple solution, you&amp;#39;ve probably lost that interview then and there. It&amp;#39;s better to check in a few minutes into your monologue to make sure the house isn&amp;#39;t on fire.&lt;/li&gt;
+&lt;li&gt;Think about optimal run times. If you have a &amp;#39;dumb&amp;#39; solution but the space and time complexities match the optimal ones, maybe your &amp;#39;dumb&amp;#39; solution isn&amp;#39;t so dumb after all. Fit the solution to the scope of the problem!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;tl;dr&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Get referrals.&lt;/li&gt;
+&lt;li&gt;Be honest.&lt;/li&gt;
+&lt;li&gt;Draw a clear line between your BS and your knowledge.&lt;/li&gt;
+&lt;li&gt;Read your interviewer.&lt;/li&gt;
+&lt;li&gt;Fit the solution to the problem.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Bonus: Why Software Engineering?&lt;/h2&gt;
+
+&lt;p&gt;I&amp;#39;ve heard numerous EECS students at Cal note that UC Berkeley EECS culture is very heavily biased towards feeding into Silicon Valley Software Engineering (compared to Stanford or MIT). I&amp;#39;m not sure of the atmosphere at other universities, but I&amp;#39;ve definitely felt the pressure from what feels like a vast majority of EECS students eagerly following the &amp;quot;script&amp;quot; (mapped out beautifully in my friend&amp;#39;s &lt;a href=&quot;https://medium.com/@qrazhan/cs-internship-recruiting-guide-aebb68912808#.cwy231wr5&quot;&gt;article&lt;/a&gt;): mid-size or small companies Freshman and Sophomore year, a large big-name company Junior year, with the sole goal of working as a Software Engineer immediately after graudation. Many students take almost identical courses without venturing far off the beaten path. We&amp;#39;ll all find particular areas we&amp;#39;re interested in, but Software Engineering is always a very safe default. But that&amp;#39;s not necessarily a bad thing - the boatloads of cash, great perks, and a developer-centric culture are amenities unheard of in many other career paths. However, I&amp;#39;m not enthused that most students choose this path, and I wish that there was a more diverse array of opportunites that are actively persued in larger volumes.&lt;/p&gt;
+
+&lt;p&gt;However, in the meantime, I do recognize the flexibility of Software Engineering. I&amp;#39;m not sure at all that I want to be a Software Engineer full-time for an extended amount of time, but I believe the skills I&amp;#39;ll learn as a Software Engineer are invaluable wherever I go. Do I feel mildly pidgeonholed into Software Engineering? Absolutely! Is this a bad thing? Maybe not. I want to be a Data Scientist, I want to found a startup, I want to be a PM... but the skills I&amp;#39;ll learn this summer will help me regardless of where I&amp;#39;m heading in the next few years. &lt;/p&gt;
+
+&lt;h2&gt;Thanks for reading!&lt;/h2&gt;
+
+&lt;p&gt;I hope you enjoyed learning about my experience this recruiting season - I know I enjoyed writing about it. Feel free to shoot me a message with your thoughts!&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s been an exhausting, exciting job-hunt, but I&amp;#39;m glad to have learned so much about the process, the companies, and myself. I&amp;#39;m excited to learn, create, and grow this summer at &lt;a href=&quot;http://www.amazon.com/&quot;&gt;Earth&amp;#39;s most customer-centric company&lt;/a&gt;. &lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 Dec 2015 00:00:00 -0800</pubDate>
+        <link>http://tedxiao.me/Internship-Overview/</link>
+        <guid isPermaLink="true">http://tedxiao.me/Internship-Overview/</guid>
+      </item>
+    
+      <item>
         <title>Adding Tags to Jekyll Now</title>
         <description>&lt;h2&gt;Jekyll Now&lt;/h2&gt;
 
@@ -47,7 +196,7 @@
         <title>Hello World</title>
         <description>&lt;h2&gt;Overview&lt;/h2&gt;
 
-&lt;p&gt;Hello! I&amp;#39;ve decided to finally creating a blog after kicking the around the idea
+&lt;p&gt;Hello! I&amp;#39;ve decided to finally creating a blog after kicking around the idea
 for a while. I&amp;#39;ve chosen to use Jekyll and host with Github; we&amp;#39;ll see how well
 this works. I&amp;#39;m still learning Markdown and how to masterfully customize Jekyll,
  but am liking what I see so far! I&amp;#39;ll hopefully be posting on a semi-regular
